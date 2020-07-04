@@ -1,0 +1,5 @@
+{
+  "postServiceApiUrl": "http://localhost:4000/posts",
+  "commentServiceApiUrl": "http://localhost:4001/posts/",
+  "queryServiceApiUrl": "http://localhost:4002/posts/"
+}
